@@ -1,0 +1,8 @@
+name: ylChatClear
+author: [yLikedG0D]
+main: utils.clear.liked.ClearUtils
+version: 1.0
+description: Plugin clear chat you server
+commands:
+  clearchat:
+   aliases: [cc, limparchat, lc]
